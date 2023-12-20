@@ -1,4 +1,5 @@
-![image](https://github.com/Wasilat19/Wasilat19/assets/109593716/d5684ebf-2a1e-4164-9f87-ee095bb879eb)
+![image](https://github.com/Wasilat19/Wasilat19/assets/109593716/209c5a8d-d118-4b04-863b-15ba7f11b403)
+
 
 
 
@@ -21,5 +22,5 @@ My technical toolkit includes proficiency in Python, and JavaScript and I am ade
 - 👨‍💻 All of my projects are available [here](https://github.com/Wasilat19)
 - 👯 I’m looking to collaborate on **any software products for quality**
 - 💬 Ask me about **Software Testing and Quality Assurance**
-- 📫 I can be reached via: [Email](braimahwasilat@gmail.com)
+- 📫 I can be reached via [Email](braimahwasilat@gmail.com)
 - 😄 Pronouns: she/her
