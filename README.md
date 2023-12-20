@@ -13,9 +13,9 @@
 
 **Hello World👋 I am Wasilat Braimah**
 
-**A result-oriented Quality Assurance professional committed to confirming the proper functionality and usability of software products before their release. I am passionate about delivering excellent quality software products resulting in business and customer satisfaction. I monitor and track bug resolutions. Also, review software product documentation to verify technical accuracy and completeness to mitigate risks. 
+A result-oriented Quality Assurance professional committed to confirming the proper functionality and usability of software products before their release. I am passionate about delivering excellent quality software products resulting in business and customer satisfaction. I monitor and track bug resolutions. Also, review software product documentation to verify technical accuracy and completeness to mitigate risks. 
 
-My technical toolkit includes proficiency in Python, and JavaScript and I am adept at utilizing tools such as Selenium, Cypress, Postman, GitHub, and Jenkins. I am always learning something new.**
+My technical toolkit includes proficiency in Python, and JavaScript and I am adept at utilizing tools such as Selenium, Cypress, Postman, GitHub, and Jenkins. I am always learning something new.
 
 - 🔭 I’m currently working on a **fintech project**
 - 🌱 I’m currently learning **Performance Testing with Jmeter**
