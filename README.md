@@ -1,16 +1,25 @@
-### Hi there 👋
+![image](https://github.com/Wasilat19/Wasilat19/assets/109593716/d5684ebf-2a1e-4164-9f87-ee095bb879eb)
 
-<!--
-**Wasilat19/Wasilat19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+**Hello World👋 I am Wasilat Braimah**
+
+**A result-oriented Quality Assurance professional committed to confirming the proper functionality and usability of software products before their release. I am passionate about delivering excellent quality software products resulting in business and customer satisfaction. I monitor and track bug resolutions. Also, review software product documentation to verify technical accuracy and completeness to mitigate risks. 
+
+My technical toolkit includes proficiency in Python, and JavaScript and I am adept at utilizing tools such as Selenium, Cypress, Postman, GitHub, and Jenkins. I am always learning something new.**
+
+- 🔭 I’m currently working on a **fintech project**
+- 🌱 I’m currently learning **Performance Testing with Jmeter**
+- 👨‍💻 All of my projects are available [here](https://github.com/Wasilat19)
+- 👯 I’m looking to collaborate on **any software products for quality**
+- 💬 Ask me about **Software Testing and Quality Assurance**
+- 📫 I can be reached via: [Email](braimahwasilat@gmail.com)
+- 😄 Pronouns: she/her
